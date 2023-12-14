@@ -1,0 +1,572 @@
+repo_name: ManUtopiK/aurelia-sails-socket-client
+report_id: ba92b889b8eac1b6cc18c0bda60d87b4
+repo_type: Public
+timestamp: '2023-12-14T18:37:34+00:00'
+requested_by: Mordred
+provider: github
+branch: master
+detected_tools_count: 43
+tools:
+- name: EJS
+  description: An Embedded JavaScript templating Language
+  website_url: https://ejs.co/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source: example/package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-05-23 20:02:51.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: Sails.js
+  description: Realtime MVC Framework for Node.js
+  website_url: http://sailsjs.com/
+  version: 0.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1165/3bf33a82d4b1624f6b94da4d9fe1eaeb.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/example/package.json
+  detection_source: example/package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-09-17 21:06:26.000000000 Z
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source: example/assets/robots.txt
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-05-23 20:02:51.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  version: 0.4.2
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/example/package.json
+  detection_source: example/package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-08-16 20:03:04.000000000 Z
+- name: JSHint
+  description: A Static Code Analysis Tool for JavaScript
+  website_url: http://www.jshint.com/about/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/1945/mzh2bRes_400x400.png
+  detection_source: package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-04-17 19:36:03.000000000 Z
+- name: JSPM
+  description: Frictionless browser package management
+  website_url: http://jspm.io/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2869/SD4SNJm8_400x400.jpg
+  detection_source: example/package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-05-23 20:02:51.000000000 Z
+- name: Jasmine
+  description: DOM-less simple JavaScript testing framework
+  website_url: http://jasmine.github.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source: package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-04-17 19:36:03.000000000 Z
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  version: 0.12.28
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-05-06 17:20:14.000000000 Z
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  version: 3.8.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-05-06 17:20:14.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-04-17 19:36:03.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: example/assets/js/app.html
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-05-23 20:02:51.000000000 Z
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source: example/assets/robots.txt
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-05-23 20:02:51.000000000 Z
+- name: aurelia-tools
+  description: Tools and utility functions used to build and develop Aurelia's libraries
+  package_url: https://www.npmjs.com/aurelia-tools
+  version: 0.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18513/default_dca3458d5cc39fb26fb800bd61b6973bfcf59707.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-09-17 21:02:46.000000000 Z
+- name: conventional-changelog
+  description: Generate a changelog from git metadata
+  package_url: https://www.npmjs.com/conventional-changelog
+  version: 0.0.11
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16618/default_9012166d3e51cea5db6b4e69c80ace1c50b7509d.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-04-17 19:36:03.000000000 Z
+- name: del
+  description: Delete files and directories
+  package_url: https://www.npmjs.com/del
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15907/default_a582b9fecca65f37fe68520c8f84d3bcae35db24.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-04-17 19:36:03.000000000 Z
+- name: grunt-contrib-clean
+  description: Clean files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-clean
+  version: 0.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15939/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/example/package.json
+  detection_source: example/package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-08-16 20:03:04.000000000 Z
+- name: grunt-contrib-coffee
+  description: Compile CoffeeScript files to JavaScript
+  package_url: https://www.npmjs.com/grunt-contrib-coffee
+  version: 0.10.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16284/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/example/package.json
+  detection_source: example/package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-08-16 20:03:04.000000000 Z
+- name: grunt-contrib-concat
+  description: Concatenate files
+  package_url: https://www.npmjs.com/grunt-contrib-concat
+  version: 0.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16075/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/example/package.json
+  detection_source: example/package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-08-16 20:03:04.000000000 Z
+- name: grunt-contrib-copy
+  description: Copy files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-copy
+  version: 0.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16056/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/example/package.json
+  detection_source: example/package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-08-16 20:03:04.000000000 Z
+- name: grunt-contrib-cssmin
+  description: Minify CSS
+  package_url: https://www.npmjs.com/grunt-contrib-cssmin
+  version: 0.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16324/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/example/package.json
+  detection_source: example/package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-08-16 20:03:04.000000000 Z
+- name: grunt-contrib-less
+  description: Compile LESS files to CSS
+  package_url: https://www.npmjs.com/grunt-contrib-less
+  version: 0.11.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16581/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/example/package.json
+  detection_source: example/package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-08-16 20:03:04.000000000 Z
+- name: grunt-contrib-uglify
+  description: Minify JavaScript files with UglifyJS
+  package_url: https://www.npmjs.com/grunt-contrib-uglify
+  version: 0.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15954/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/example/package.json
+  detection_source: example/package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-08-16 20:03:04.000000000 Z
+- name: grunt-contrib-watch
+  description: Run predefined tasks whenever watched file patterns are added
+  package_url: https://www.npmjs.com/grunt-contrib-watch
+  version: 0.5.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15932/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/example/package.json
+  detection_source: example/package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-08-16 20:03:04.000000000 Z
+- name: gulp-babel
+  description: Use next generation JavaScript, today
+  package_url: https://www.npmjs.com/gulp-babel
+  version: 5.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15963/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-09-25 07:19:27.000000000 Z
+- name: gulp-bump
+  description: Bump npm versions with Gulp
+  package_url: https://www.npmjs.com/gulp-bump
+  version: 0.1.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16313/default_f130429ee56156823c8c6e94da6fb7aa07f07ba5.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-05-06 17:20:14.000000000 Z
+- name: gulp-jshint
+  description: JSHint plugin for gulp
+  package_url: https://www.npmjs.com/gulp-jshint
+  version: 1.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16050/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-05-06 17:20:14.000000000 Z
+- name: include-all
+  description: An easy way to include all node.js modules within a directory
+  package_url: https://www.npmjs.com/include-all
+  version: 0.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18725/default_15fcafc6f94bb569248bf929a324ec39f9ed6752.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/example/package.json
+  detection_source: example/package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-05-23 20:02:51.000000000 Z
+- name: jasmine-core
+  description: Official packaging of Jasmine's core files for use by Node.js projects
+  package_url: https://www.npmjs.com/jasmine-core
+  version: 2.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15905/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-09-25 07:19:27.000000000 Z
+- name: jshint-stylish
+  description: Stylish reporter for JSHint
+  package_url: https://www.npmjs.com/jshint-stylish
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16031/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-04-17 19:36:03.000000000 Z
+- name: karma-babel-preprocessor
+  description: Preprocessor to compile ES6 on the fly with babel
+  package_url: https://www.npmjs.com/karma-babel-preprocessor
+  version: 5.1.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16504/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-09-25 07:19:27.000000000 Z
+- name: karma-chrome-launcher
+  description: A Karma plugin. Launcher for Chrome and Chrome Canary
+  package_url: https://www.npmjs.com/karma-chrome-launcher
+  version: 0.1.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-05-06 17:20:14.000000000 Z
+- name: karma-jasmine
+  description: A Karma plugin - adapter for Jasmine testing framework
+  package_url: https://www.npmjs.com/karma-jasmine
+  version: 0.3.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-05-06 17:20:14.000000000 Z
+- name: karma-jspm
+  description: Include jspm module loader for karma runs; allows dynamic loading of
+    src and test files and modules
+  package_url: https://www.npmjs.com/karma-jspm
+  version: 1.1.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18249/default_72165c3568ea11e4d58dbb513ca972581ceb7580.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-05-06 17:20:14.000000000 Z
+- name: rc
+  description: Hardwired configuration loader
+  package_url: https://www.npmjs.com/rc
+  version: 0.5.0
+  license: BSD-2-Clause,MIT,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16813/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/example/package.json
+  detection_source: example/package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-05-23 20:02:51.000000000 Z
+- name: require-dir
+  description: Helper to require
+  package_url: https://www.npmjs.com/require-dir
+  version: 0.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16293/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-04-17 19:36:03.000000000 Z
+- name: run-sequence
+  description: Run a series of dependent gulp tasks in order
+  package_url: https://www.npmjs.com/run-sequence
+  version: 1.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16004/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-04-17 19:36:03.000000000 Z
+- name: vinyl-paths
+  description: Get the file paths in a `vinyl` stream
+  package_url: https://www.npmjs.com/vinyl-paths
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17179/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-09-17 21:02:46.000000000 Z
+- name: yargs
+  description: Yargs the modern, pirate-themed, successor to optimist
+  package_url: https://www.npmjs.com/yargs
+  version: 2.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-04-17 19:36:03.000000000 Z
+- name: aurelia-path
+  description: Utilities for path manipulation
+  package_url: http://bower.io/aurelia-path
+  version: 0.7.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-06-23 20:59:11.000000000 Z
+- name: core-js
+  description: Core Javascript
+  package_url: http://bower.io/core-js
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source: bower.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-04-17 19:36:03.000000000 Z
+- name: sails.io.js
+  description: JavaScript Client SDK for Sails
+  package_url: http://bower.io/sails.io.js
+  version: 0.11.5
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ManUtopiK/aurelia-sails-socket-client/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: Martin Jantosovic
+  last_updated_on: 2015-04-17 19:36:03.000000000 Z
